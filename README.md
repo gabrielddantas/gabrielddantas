@@ -7,7 +7,7 @@
 
 ##### - 🤔 I'm looking for help on how to develop myself more and more.
 
-##### - ⚡ Fun fact: I'm Programer, Otaku, Gamer, Geek <img width="30px" src="https://user-images.githubusercontent.com/80539719/111229102-122dae80-85c4-11eb-9daf-bf2067d158f5.gif"/>
+##### - ⚡ Fun fact: I'm Programer, Otaku, Gamer, Geek <img width="20px" src="https://user-images.githubusercontent.com/80539719/111229102-122dae80-85c4-11eb-9daf-bf2067d158f5.gif"/>
 
 ##### - 📫 How to reach me: 
 [![Twitter Badge](https://img.shields.io/badge/-@DanttS2-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/DanttS2)](https://twitter.com/DanttS2)
