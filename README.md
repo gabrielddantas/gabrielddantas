@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img width="30px" src="https://user-images.githubusercontent.com/80539719/111225809-025f9b80-85bf-11eb-81cc-30573ea3d626.gif"/>, I'm Gabriel Duarte</h1>
-<h3 align="center">If work, not is workaround</h3>
+<h3 align="center">^^ If work, not is workaround ^^</h3>
 
 ##### - 👤 Currently I'm study programming at IFRN - Parnamirim. 
 
