@@ -18,6 +18,5 @@
 [![ReactJs Badge](https://img.shields.io/badge/-ReactJs-00ECFF?logo=react&logoColor=white&style=for-the-badge)](https://img.shields.io/badge/-ReactJs-00ECFF?logo=react&logoColor=white&style=for-the-badge)
 [![NodeJs Badge](https://img.shields.io/badge/-NodeJs-339933?logo=node.js&logoColor=white&style=for-the-badge)](https://img.shields.io/badge/-NodeJs-339933?logo=node.js&logoColor=white&style=for-the-badge)
 [![JavaScript Badge](https://img.shields.io/badge/-Javascript-yellow?textColor=white&logo=javascript&logoColor=white&style=for-the-badge)](https://img.shields.io/badge/-Javascript-yellow?textColor=white&logo=javascript&logoColor=white&style=for-the-badge)
-[![TypeScript Badge](https://img.shields.io/badge/-Typescript-3276E6?textColor=white&logo=typescript&logoColor=white&style=for-the-badge)](https://img.shields.io/badge/-Typescript-3276E6?textColor=white&logo=typescript&logoColor=white&style=for-the-badge)
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=for-the-badge)](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=for-the-badge)
 [![CSS3 Badge](https://img.shields.io/badge/-CSS3-5188FE?logo=css3&logoColor=white&style=for-the-badge)](https://img.shields.io/badge/-CSS3-5188FE?logo=css3&logoColor=white&style=for-the-badge)
