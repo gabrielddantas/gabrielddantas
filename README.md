@@ -3,7 +3,7 @@
 
 ##### - 👤 Currently I study software development in IFRN
 
-##### - 👨‍💻 I'm currently a software development intern at GCTI
+##### - 👨‍💻 I'm currently a software development at GCTI
 
 ##### - ✨ I’m currently learning React, Angular, Node with Typescript and Spring with Java.
 
