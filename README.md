@@ -12,7 +12,7 @@
 ##### - ⚡ Fun fact: I'm Programer, Otaku, Gamer, Geek <img width="20px" src="https://user-images.githubusercontent.com/80539719/111229102-122dae80-85c4-11eb-9daf-bf2067d158f5.gif"/>
 
 ##### - 📫 How to reach me: 
-[![Twitter Badge](https://img.shields.io/badge/-@DanttS2-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/DanttS2)](https://twitter.com/DanttS2)
+[![linkedin Badge](https://img.shields.io/badge/-Gabriel_Duarte-6633cc?style=flat-square&labelColor=6633cc&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielddantas/)](https://www.linkedin.com/in/gabrielddantas/)
 [![outlook Badge](https://img.shields.io/badge/-gabrielteixeiradantas@hotmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielteixeiradantas@hotmail.com)](mailto:gabrielteixeiradantas@hotmail.com)
 
 ## Technologies <img width="30px" src="https://user-images.githubusercontent.com/80539719/111227696-b8c48000-85c1-11eb-87a3-9864ebb51d1c.gif"/>
