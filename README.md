@@ -27,8 +27,7 @@
 [![CSS3 Badge](https://img.shields.io/badge/-CSS3-5188FE?logo=css3&logoColor=white&style=for-the-badge)](https://img.shields.io/badge/-CSS3-5188FE?logo=css3&logoColor=white&style=for-the-badge)
 
 ## Statistics ✨
-| GitHub Stats | Top Languages |
-|--------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dantts&show_icons=true&theme=midnight-purple)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dantts&layout=compact&theme=midnight-purple)](https://github.com/dantts/github-readme-stats)|
+
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=dantts&show_icons=true&theme=midnight-purple">&ensp;<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantts&layout=compact&theme=midnight-purple">
 
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=dantts&bg_color=000000&color=ffffff&line=7e3ace&point=ffffff&radius=10)
