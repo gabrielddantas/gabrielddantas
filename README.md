@@ -25,3 +25,8 @@
 [![JavaScript Badge](https://img.shields.io/badge/-Javascript-yellow?textColor=white&logo=javascript&logoColor=white&style=for-the-badge)](https://img.shields.io/badge/-Javascript-yellow?textColor=white&logo=javascript&logoColor=white&style=for-the-badge)
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=for-the-badge)](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=for-the-badge)
 [![CSS3 Badge](https://img.shields.io/badge/-CSS3-5188FE?logo=css3&logoColor=white&style=for-the-badge)](https://img.shields.io/badge/-CSS3-5188FE?logo=css3&logoColor=white&style=for-the-badge)
+
+## Statistics ✨
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dantts&show_icons=true&theme=midnight-purple)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dantts&layout=compact&theme=midnight-purple)](https://github.com/dantts/github-readme-stats)
