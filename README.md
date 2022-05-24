@@ -29,5 +29,3 @@
 ## Statistics ✨
 
 <img height="180px" src="https://github-readme-stats.vercel.app/api?username=dantts&show_icons=true&theme=midnight-purple">&ensp;<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantts&layout=compact&theme=midnight-purple">
-
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=dantts&bg_color=000000&color=ffffff&line=7e3ace&point=ffffff&radius=10)
