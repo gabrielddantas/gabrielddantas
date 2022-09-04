@@ -17,6 +17,7 @@
 
 ## Technologies <img width="30px" height="30px" src="https://user-images.githubusercontent.com/80539719/111227696-b8c48000-85c1-11eb-87a3-9864ebb51d1c.gif"/>
 
+[![NextJs Badge](https://img.shields.io/badge/-NextJs-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://img.shields.io/badge/-ReactJs-00ECFF?logo=react&logoColor=white&style=for-the-badge)
 [![ReactJs Badge](https://img.shields.io/badge/-ReactJs-00ECFF?logo=react&logoColor=white&style=for-the-badge)](https://img.shields.io/badge/-ReactJs-00ECFF?logo=react&logoColor=white&style=for-the-badge)
 [![NodeJs Badge](https://img.shields.io/badge/-NodeJs-25BD00?logo=node.js&logoColor=white&style=for-the-badge)](https://img.shields.io/badge/-NodeJs-25BD00?logo=node.js&logoColor=white&style=for-the-badge)
 [![Angular Badge](https://img.shields.io/badge/-Angular-F10000?logo=angular&logoColor=white&style=for-the-badge)](https://img.shields.io/badge/-Angular-00ECFF?logo=angular&logoColor=white&style=for-the-badge)
