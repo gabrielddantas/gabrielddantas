@@ -4,7 +4,7 @@
 
 ##### - 👨‍💻 I'm currently a software development at GCTI
 
-##### - ✨ I’m currently learning React, Angular, Node with Typescript and Spring with Java.
+##### - ✨ I’m currently learning Next, React, Angular, Node with Typescript and Springboot.
 
 ##### - 🤔 I'm looking for help on how to develop myself more and more.
 
