@@ -16,16 +16,18 @@
 
 ## Technologies <img width="30px" height="30px" src="https://user-images.githubusercontent.com/80539719/111227696-b8c48000-85c1-11eb-87a3-9864ebb51d1c.gif"/>
 
-[![NextJs Badge](https://img.shields.io/badge/-NextJs-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://img.shields.io/badge/-ReactJs-00ECFF?logo=react&logoColor=white&style=for-the-badge)
-[![ReactJs Badge](https://img.shields.io/badge/-ReactJs-00ECFF?logo=react&logoColor=white&style=for-the-badge)](https://img.shields.io/badge/-ReactJs-00ECFF?logo=react&logoColor=white&style=for-the-badge)
-[![NodeJs Badge](https://img.shields.io/badge/-NodeJs-25BD00?logo=node.js&logoColor=white&style=for-the-badge)](https://img.shields.io/badge/-NodeJs-25BD00?logo=node.js&logoColor=white&style=for-the-badge)
-[![Angular Badge](https://img.shields.io/badge/-Angular-F10000?logo=angular&logoColor=white&style=for-the-badge)](https://img.shields.io/badge/-Angular-00ECFF?logo=angular&logoColor=white&style=for-the-badge)
-[![Spring Badge](https://img.shields.io/badge/-Spring-25BD00?logo=spring&logoColor=white&style=for-the-badge)](https://img.shields.io/badge/-Spring-25BD00?logo=Spring&logoColor=white&style=for-the-badge)
-[![TypeScript Badge](https://img.shields.io/badge/-typescript-blue?textColor=white&logo=typescript&logoColor=white&style=for-the-badge)](https://img.shields.io/badge/-typescript-blue?textColor=white&logo=typescript&logoColor=white&style=for-the-badge)
-[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![JavaScript Badge](https://img.shields.io/badge/-Javascript-yellow?textColor=white&logo=javascript&logoColor=white&style=for-the-badge)](https://img.shields.io/badge/-Javascript-yellow?textColor=white&logo=javascript&logoColor=white&style=for-the-badge)
-[![HTML5 Badge](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=for-the-badge)](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=for-the-badge)
-[![CSS3 Badge](https://img.shields.io/badge/-CSS3-5188FE?logo=css3&logoColor=white&style=for-the-badge)](https://img.shields.io/badge/-CSS3-5188FE?logo=css3&logoColor=white&style=for-the-badge)
+![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Badge](https://img.shields.io/badge/-Spring-25BD00?logo=spring&logoColor=white&style=for-the-badge)
+![NodeJs Badge](https://img.shields.io/badge/-NodeJs-25BD00?logo=node.js&logoColor=white&style=for-the-badge)
+![JUnit Badge](https://img.shields.io/badge/JUnit-100000?style=for-the-badge&logo=junit5&logoColor=white&labelColor=39CD25&color=39CD25)
+
+![NextJs Badge](https://img.shields.io/badge/-NextJs-000000?logo=vercel&logoColor=white&style=for-the-badge)
+![ReactJs Badge](https://img.shields.io/badge/-ReactJs-00ECFF?logo=react&logoColor=white&style=for-the-badge)
+![Angular Badge](https://img.shields.io/badge/-Angular-F10000?logo=angular&logoColor=white&style=for-the-badge)
+![TypeScript Badge](https://img.shields.io/badge/-typescript-blue?textColor=white&logo=typescript&logoColor=white&style=for-the-badge)
+![JavaScript Badge](https://img.shields.io/badge/-Javascript-yellow?textColor=white&logo=javascript&logoColor=white&style=for-the-badge)
+![HTML5 Badge](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3 Badge](https://img.shields.io/badge/-CSS3-5188FE?logo=css3&logoColor=white&style=for-the-badge)
 
 ## Statistics ✨
 
