@@ -31,4 +31,4 @@
 
 ## Statistics ✨
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=dantts&show_icons=true&theme=midnight-purple">&ensp;<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantts&layout=compact&theme=midnight-purple">
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=gabrielddantas&show_icons=true&theme=midnight-purple">&ensp;<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielddantas&layout=compact&theme=midnight-purple">
